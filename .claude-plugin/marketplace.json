@@ -1,0 +1,18 @@
+{
+  "name": "zuora-operations-skill",
+  "owner": {
+    "name": "nicoleta-hegedus"
+  },
+  "metadata": {
+    "description": "Zuora operations skill for Claude Cowork — accounts, subscriptions, billing, payments, invoices, and revenue recognition",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "zuora-operations",
+      "source": "./plugins/zuora-operations",
+      "version": "1.0.0",
+      "description": "Day-to-day Zuora operations — account lookups, subscription management, billing investigations, catalog management, reports, and revenue recognition via MCP tools."
+    }
+  ]
+}

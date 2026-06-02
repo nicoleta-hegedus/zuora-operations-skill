@@ -1,0 +1,13 @@
+# Claude session history
+.claude/history/
+.claude/settings.local.json
+
+# Packaged skill/plugin files (generated artifacts)
+*.skill
+*.plugin
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/

@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "zuora-operations-skill": {
+      "source": {
+        "source": "github",
+        "repo": "nicoleta-hegedus/zuora-operations-skill"
+      }
+    }
+  }
+}

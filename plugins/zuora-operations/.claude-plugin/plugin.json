@@ -1,0 +1,8 @@
+{
+  "name": "zuora-operations",
+  "version": "1.0.0",
+  "description": "Day-to-day Zuora operations — account lookups, subscription management, billing investigations, catalog management, reports, and revenue recognition via MCP tools.",
+  "author": {
+    "name": "nicoleta-hegedus"
+  }
+}
